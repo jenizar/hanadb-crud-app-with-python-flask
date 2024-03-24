@@ -2,12 +2,17 @@
 SAP HANA DB Cloud CRUD Application using Python Flask | CAP in SAP BAS
 
 Install python in SAP BAS terminal:
+
 npm install python
+
 npm install pip
 
 Install python library in SAP BAS terminal:
+
 pip install flask
+
 pip install hdbcli
+
 
 references:
 
