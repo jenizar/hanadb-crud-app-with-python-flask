@@ -10,8 +10,13 @@ pip install flask
 pip install hdbcli
 
 references:
+
 https://blog.sap-press.com/an-example-of-python-development-with-sap-business-application-studio
+
 https://pypi.org/project/hdbcli/
+
 https://developers.sap.com/tutorials/hana-dbx-browse.html
+
 https://help.sap.com/docs/hana-cloud/sap-hana-cloud-getting-started-guide/sap-hana-cloud-sql-demo-data
+
 https://help.sap.com/saphelp_em700_ehp01/helpdata/en/eb/9288408bc0bb4de10000000a1550b0/content.htm?no_cache=true
