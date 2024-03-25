@@ -13,6 +13,11 @@ $>pip install flask
 
 $>pip install hdbcli
 
+![alt text](https://github.com/jenizar/hanadb-crud-app-with-python-flask/blob/main/screenshot/run_python_app.PNG)
+![alt text](https://github.com/jenizar/hanadb-crud-app-with-python-flask/blob/main/screenshot/install_flask_bas_terminal.PNG)
+![alt text](https://github.com/jenizar/hanadb-crud-app-with-python-flask/blob/main/screenshot/install_hdbcli_bas_terminal.PNG)
+![alt text](https://github.com/jenizar/hanadb-crud-app-with-python-flask/blob/main/screenshot/create_dev_space_1.PNG)
+![alt text](https://github.com/jenizar/hanadb-crud-app-with-python-flask/blob/main/screenshot/create_dev_space_2.PNG)
 
 references:
 
