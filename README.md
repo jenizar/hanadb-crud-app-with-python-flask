@@ -20,6 +20,8 @@ https://blog.sap-press.com/an-example-of-python-development-with-sap-business-ap
 
 https://pypi.org/project/hdbcli/
 
+https://stackoverflow.com/questions/35828847/how-can-i-count-an-sql-row-and-store-it-in-a-variable-using-flask-without-always
+
 https://developers.sap.com/tutorials/hana-dbx-browse.html
 
 https://help.sap.com/docs/hana-cloud/sap-hana-cloud-getting-started-guide/sap-hana-cloud-sql-demo-data
