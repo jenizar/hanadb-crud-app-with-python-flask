@@ -1,6 +1,7 @@
 {% extends 'layout.html' %}
 {% block body %}
   <h3 class='text-center text-muted mb-3'>SAP HANA DB Cloud CRUD Application</h3>
+  <td><p>Total : {{dbrecords}} records</p></td>
   <p class='text-right'><a href='{{url_for("add_data")}}' class='btn btn-success '>+Add Data</a></p>
   <table class='table table-bordered'>
     <thead>
