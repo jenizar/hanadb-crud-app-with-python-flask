@@ -19,7 +19,11 @@ def index():
     cur.execute("select * from HOTEL.CITY ORDER BY NAME;")
 
     data=cur.fetchall()
-    return render_template("index.html",datas=data)
+    cur.execute("SELECT COUNT(*) FROM HOTEL.CITY;")
+    data_count = cur.fetchone()[0]
+    data_records = str(data_count)
+    
+    return render_template("index.html",datas=data,dbrecords=data_records)
 
 @app.route("/add_data",methods=['POST','GET'])
 def add_data():
